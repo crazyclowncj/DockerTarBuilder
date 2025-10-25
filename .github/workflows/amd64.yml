@@ -1,4 +1,4 @@
-name: npm
+name: x86-64 Pull and Save Docker Image
 on:
   workflow_dispatch:
     inputs:
